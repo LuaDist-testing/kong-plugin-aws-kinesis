@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "kong-plugin-aws-kinesis"
-version = "0.1.0-1"
+version = "0.1.1-1"
 supported_platforms = {"linux", "macosx"}
 -- LuaDist source
 source = {
-  tag = "0.1.0-1",
+  tag = "0.1.1-1",
   url = "git://github.com/LuaDist-testing/kong-plugin-aws-kinesis.git"
 }
 -- Original source
 -- source = {
 --   url = "git://github.com/rbang1/kong-plugin-aws-kinesis",
---   tag = "0.1.0"
+--   tag = "0.1.1"
 -- }
 
 description = {
